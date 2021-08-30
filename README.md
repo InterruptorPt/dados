@@ -1,10 +1,10 @@
 # Conjuntos de Dados
 
-Para maior facilidade de acesso, reunimos aqui os conjuntos de dados compilados pelo [Interruptor](https://interruptor.pt/). Também incluímos código (_queries_ Wikidata, etc.) utilizado na sua construção e outras notas acessórias, sempre que possível.
+Para maior facilidade de acesso, reunimos aqui os conjuntos de dados compilados pelo [Interruptor](https://interruptor.pt/). Também incluímos código utilizado na sua construção e outras notas acessórias, sempre que possível. O esquema de cada base de dados está na respetiva pasta.
 
 ![CC BY](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-**Salvo informação em contrário, estes conjuntos de dados são disponibilizados sob uma licença [Creative Commons 4.0 Atribuição](LICENSE.txt)** (texto simplificado em português [aqui](https://creativecommons.org/licenses/by/4.0/deed.pt), texto completo em português [aqui](https://creativecommons.org/licenses/by/4.0/legalcode.pt<>)). O código é disponibilizado sob [GNU-GPL 3.0](http://licencas.softwarelivre.org/gpl-3.0.pt-br.html).
+**Salvo informação em contrário, estes conjuntos de dados são disponibilizados sob uma licença [Creative Commons 4.0 Atribuição](LICENSE.txt)** (_texto simplificado em português [aqui](https://creativecommons.org/licenses/by/4.0/deed.pt), texto completo em português [aqui](https://creativecommons.org/licenses/by/4.0/legalcode.pt_)_). O código é disponibilizado sob [GNU-GPL 3.0](http://licencas.softwarelivre.org/gpl-3.0.pt-br.html).
 
 ## Índice de dados no repositório:
 
