@@ -3,7 +3,7 @@
 Este conjunto de dados inclui todos os textos conhecidos de Fernando Pessoa. A obra de Fernando Pessoa está no domínio público.
 Os textos não estão limpos para processamento.
 
-**Fonte**: [Arquivo Pessoa](http://arquivopessoa.net/)
+**Fonte:** [Arquivo Pessoa](http://arquivopessoa.net/)
 
 ## Esquema dos dados:
 

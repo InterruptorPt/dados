@@ -1,1 +1,0 @@
-**Fonte**: [PNL 2027](https://pnl2027.gov.pt) e [BNP](https://opendata.bnportugal.gov.pt/)

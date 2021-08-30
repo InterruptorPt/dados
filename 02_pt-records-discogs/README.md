@@ -1,6 +1,6 @@
 ## Descrição dos dados:
 
-Este conjunto de dados inclui todos os registos fonográficos cujo país de lançamento está listado no Discogs como "Portugal". Foi criado filtrando os _dumps_ de dados disponibilizados pela plataforma (última atualização em janeiro de 2021).
+Este conjunto de dados contém todos os registos fonográficos cujo país de lançamento está listado no Discogs como "Portugal". Foi criado filtrando os _dumps_ de dados disponibilizados pela plataforma (última atualização em janeiro de 2021).
 
 **Fonte:** [Discogs](http://data.discogs.com/)
 
