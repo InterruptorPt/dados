@@ -1,0 +1,32 @@
+[
+  {
+    "name": "pt-album-charts",
+    "github_folder": "01_pt-album-charts",
+    "related_pages": [
+      {
+        "title": "Jogar à tabela para chegar mais longe",
+        "url": "/artigos/jogar-a-tabela-chegar-mais-longe"
+      }
+    ]
+  },
+  {
+    "name": "pt-records-discogs",
+    "github_folder": "02_pt-records-discogs",
+    "related_pages": [
+      {
+        "title": "Os discos que continuamos a girar",
+        "url": "/artigos/os-discos-que-continuamos-a-girar"
+      }
+    ]
+  },
+  {
+    "name": "fernando-pesoa",
+    "github_folder": "03_fernando-pessoa",
+    "related_pages": [
+      {
+        "title": "Consegue um algoritmo distinguir os heterónimos de Fernando Pessoa?",
+        "url": "/artigos/conseguem-algoritmos-distinguir-heteronimos-fernando-pessoa"
+      }
+    ]
+  }
+]
