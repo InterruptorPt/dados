@@ -4,11 +4,11 @@ Para maior facilidade de acesso, reunimos aqui os conjuntos de dados compilados 
 
 ![CC BY](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-**Salvo informação em contrário, estes conjuntos de dados são disponibilizados sob uma licença [Creative Commons 4.0 Atribuição](LICENSE.txt)** (_texto simplificado em português [aqui](https://creativecommons.org/licenses/by/4.0/deed.pt), texto completo em português [aqui](https://creativecommons.org/licenses/by/4.0/legalcode.pt_)_). O código é disponibilizado sob [GNU-GPL 3.0](http://licencas.softwarelivre.org/gpl-3.0.pt-br.html).
+**Salvo informação em contrário, estes conjuntos de dados são disponibilizados sob uma licença [Creative Commons 4.0 Atribuição](LICENSE.txt)** (_texto simplificado em português [aqui](https://creativecommons.org/licenses/by/4.0/deed.pt), texto completo em português [aqui](https://creativecommons.org/licenses/by/4.0/legalcode.pt_)\_). O código é disponibilizado sob [GNU-GPL 3.0](http://licencas.softwarelivre.org/gpl-3.0.pt-br.html).
 
 ## Índice de dados no repositório:
 
 1. `pt-album-charts` - Tabelas de vendas de álbuns em Portugal (2003-2021) - _última atualização 30/08/2021_
 2. `pt-records-discogs` - Registos fonográficos editados em Portugal; levantamento via Discogs (1970-2020) - _última atualização 22/01/2021_
-3. `fernando-pessoa` - Obras completas de Fernando Pessoa - _última atualização Agosto de 2020_ (todos os textos estão no **[domínio público](https://creativecommons.org/publicdomain/mark/1.0/deed.pt)**)
-
+3. `fernando-pessoa` - Obras completas de Fernando Pessoa - _última atualização agosto de 2020_ (todos os textos estão no **[domínio público](https://creativecommons.org/publicdomain/mark/1.0/deed.pt)**)
+4. `pnl` - Títulos no Plano Nacional de Leitura (2006-2021) - _última atualização setembro de 2021_
