@@ -11,4 +11,4 @@ Para maior facilidade de acesso, reunimos aqui os conjuntos de dados compilados 
 1. `pt-album-charts` - Tabelas de vendas de álbuns em Portugal (2003-2021) - _última atualização 30/08/2021_
 2. `pt-records-discogs` - Registos fonográficos editados em Portugal; levantamento via Discogs (1970-2020) - _última atualização 22/01/2021_
 3. `fernando-pessoa` - Obras completas de Fernando Pessoa - _última atualização agosto de 2020_ (todos os textos estão no **[domínio público](https://creativecommons.org/publicdomain/mark/1.0/deed.pt)**)
-4. `pnl` - Títulos no Plano Nacional de Leitura (2006-2021) - _última atualização setembro de 2021_
+4. `pnl` - Títulos no Plano Nacional de Leitura (2006-2020) - _última atualização setembro de 2021_
