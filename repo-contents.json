@@ -28,5 +28,19 @@
         "url": "/artigos/conseguem-algoritmos-distinguir-heteronimos-fernando-pessoa"
       }
     ]
+  },
+  {
+    "name": "pnl",
+    "github_folder": "04_pnl",
+    "related_pages": [
+      {
+        "title": "Para que serve o Plano Nacional de Leitura?",
+        "url": "/artigos/para-que-serve-o-plano-nacional-de-leitura"
+      },
+      {
+        "title": "6 gráficos para conhecer melhor o Plano Nacional de Leitura",
+        "url": "/artigos/graficos-para-conhecer-melhor-o-plano-nacional-de-leitura"
+      }
+    ]
   }
 ]
