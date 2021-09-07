@@ -20,7 +20,7 @@
     ]
   },
   {
-    "name": "fernando-pesoa",
+    "name": "fernando-pessoa",
     "github_folder": "03_fernando-pessoa",
     "related_pages": [
       {
@@ -40,6 +40,16 @@
       {
         "title": "6 gráficos para conhecer melhor o Plano Nacional de Leitura",
         "url": "/artigos/graficos-para-conhecer-melhor-o-plano-nacional-de-leitura"
+      }
+    ]
+  },
+  {
+    "name": "espacos-culturais",
+    "github_folder": "05_espacos-culturais",
+    "related_pages": [
+      {
+        "title": "Até onde chega a cultura?",
+        "url": "/artigos/ate-onde-chega-a-cultura"
       }
     ]
   }
