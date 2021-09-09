@@ -12,3 +12,4 @@ Para maior facilidade de acesso, reunimos aqui os conjuntos de dados compilados 
 2. `pt-records-discogs` - Registos fonográficos editados em Portugal; levantamento via Discogs (1970-2020) - _última atualização 22/01/2021_
 3. `fernando-pessoa` - Obras completas de Fernando Pessoa - _última atualização agosto de 2020_ (todos os textos estão no **[domínio público](https://creativecommons.org/publicdomain/mark/1.0/deed.pt)**)
 4. `pnl` - Títulos no Plano Nacional de Leitura (2006-2020) - _última atualização setembro de 2021_
+5. `espacos-culturais` - Espaços culturais em Portugal - _última atualização agosto de 2021_ (Os dados da Wikidata são disponibilizados sob uma licença **[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.pt)**.)
