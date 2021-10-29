@@ -13,3 +13,4 @@ Para maior facilidade de acesso, reunimos aqui os conjuntos de dados compilados 
 3. `fernando-pessoa` - Obras completas de Fernando Pessoa - _última atualização agosto de 2020_ (todos os textos estão no **[domínio público](https://creativecommons.org/publicdomain/mark/1.0/deed.pt)**)
 4. `pnl` - Títulos no Plano Nacional de Leitura (2006-2020) - _última atualização setembro de 2021_
 5. `espacos-culturais` - Espaços culturais em Portugal - _última atualização agosto de 2021_ (Os dados da Wikidata são disponibilizados sob uma licença **[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.pt)**.)
+6. `festivais-verao` - Cartazes completos de sete festivais de verão nacionais (2009-2019)
