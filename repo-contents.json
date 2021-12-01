@@ -51,14 +51,16 @@
         "title": "Até onde chega a cultura?",
         "url": "/artigos/ate-onde-chega-a-cultura"
       }
-   {
+    ]
+  },
+  {
     "name": "festivais-verao",
     "github_folder": "06_festivais-verao",
     "related_pages": [
       {
         "title": "3500 concertos depois, o silêncio dos grandes festivais trava o resto da música",
         "url": "/artigos/onze-anos-festivais-verao-em-portugal"
-      }    
+      }
     ]
   }
 ]
